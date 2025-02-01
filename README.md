@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mallesh Basavant Kamati</h1>
 <h3 align="center">Aspiring Software Developer Engineer from India</h3>
 
-🔭 I’m currently working on [Project Name]  
+🔭 I’m currently working on Quizz 
 🌱 I’m learning Machine Learning and NLP  
 💬 Ask me about Java, Python, and Data Analysis
 
