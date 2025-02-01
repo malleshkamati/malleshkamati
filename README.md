@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Mallesh Basavant Kamati</h1>
 <h3 align="center">Aspiring Software Developer Engineer from India</h3>
 
+🔭 I’m currently working on [Project Name]  
+🌱 I’m learning Machine Learning and NLP  
+💬 Ask me about Java, Python, and Data Analysis
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=malleshkamati&label=Profile%20views&color=0e75b6&style=flat" alt="malleshkamati" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=malleshkamati" alt="malleshkamati" /></a> </p>
