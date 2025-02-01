@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Mallesh Basavant Kamati</h1>
 <h3 align="center">Aspiring Software Developer Engineer from India</h3>
 
+- 🔭 I’m currently working on [Quizz](https://github.com/malleshkamati/Quizz)
+
+- 🌱 I’m currently learning **ReactJs, Spring Boot**
+
+- 💬 Ask me about **python ,java, OOPs**
+
 - 📫 How to reach me **malleshkamati0803@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
