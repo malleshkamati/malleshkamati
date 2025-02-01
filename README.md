@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **ReactJs, Spring Boot**
 
-- 💬 Ask me about **python ,java, OOPs**
+- 💬 Ask me about **python , java , OOPs**
 
 - 📫 How to reach me **malleshkamati0803@gmail.com**
 
