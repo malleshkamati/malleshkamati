@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mallesh Basavant Kamati</h1>
-<h3 align="center">Aspiring Software Developer Engineer from India</h3>
+<h3 align="center">Aspiring Software Developement Engineer from India</h3>
 
 - 🔭 I’m currently working on [Quizz](https://github.com/malleshkamati/Quizz)
 
