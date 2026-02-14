@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Quizz](https://github.com/malleshkamati/Quizz)
 
-- 🌱 I’m currently learning **ReactJs, Spring Boot**
+- 🌱 I’m currently learning **ReactJs**
 
 - 💬 Ask me about **python , java , OOPs**
 
