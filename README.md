@@ -1,18 +1,126 @@
-<h1 align="center">Hi 👋, I'm Mallesh Basavant Kamati</h1>
-<h3 align="center">Aspiring Software Developement Engineer from India</h3>
+# 👋 Hi, I'm Mallesh Kamati
 
-- 🔭 I’m currently working on [Quizz](https://github.com/malleshkamati/Quizz)
+💻 SDE Intern @ Tracxn  
+🎓 B.Tech in Computer Science (2027)  
+📍 Lucknow, India  
+🚀 Full Stack Developer | ML Enthusiast  
 
-- 🌱 I’m currently learning **ReactJs**
+---
 
-- 💬 Ask me about **python , java , OOPs**
+## 🧑‍💻 About Me
 
-- 📫 How to reach me **malleshkamati0803@gmail.com**
+- 🔭 Currently working on scalable frontend systems using React  
+- 🌱 Exploring Machine Learning & System Design  
+- 💡 Passionate about building real-world applications  
+- ⚡ Strong interest in AI + Web Development  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mallesh-kamati-8bb76228b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/mallesh-kamati-8bb76228b" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+## ⚙️ Tech Stack
+
+**Languages:**  
+Python | JavaScript | Java | PHP  
+
+**Frontend:**  
+React.js | HTML | CSS | Tailwind CSS  
+
+**Backend:**  
+Node.js | Express.js | Flask  
+
+**Databases:**  
+MySQL | PostgreSQL | MongoDB  
+
+**Tools & Libraries:**  
+Git | GitHub | Pandas | NumPy  
+
+---
+
+## 💼 Experience
+
+### 🚀 SDE Intern — Tracxn  
+**March 2026 – Present**
+- Developing scalable and efficient UI components using React  
+- Improving frontend performance and user experience  
+- Collaborating with cross-functional teams  
+
+---
+
+### 🔹 Software Development Intern — GOQii  
+**June 2025 – Present**
+- Built internal tools for managing health challenges  
+- Developed backend logic using PHP  
+- Created dynamic React forms with conditional logic  
+- Reduced manual work by **60%**  
+
+---
+
+### 🔹 Software Development Intern — IOTRL Connect Pvt Ltd  
+**May 2024 – Aug 2024**
+- Integrated Moodle with Node.js and React.js  
+- Built dynamic quiz and tracking systems  
+- Improved user engagement through interactive modules  
+
+---
+
+## 📌 Projects
+
+### 🤖 ML Chatbot
+- Built chatbot using BERT & LLaMA  
+- Implemented NLP techniques for sentence similarity  
+- Backend with Flask & PostgreSQL  
+
+---
+
+### 📝 Quiz Web Application
+- Full-stack quiz platform with authentication  
+- Performance tracking and analytics  
+- Built using Node.js, Express.js, PostgreSQL  
+
+---
+
+### 💼 Job Catch
+- Job recommendation system  
+- Resume parsing + web scraping  
+- Used BeautifulSoup, PyPDF2, scikit-learn  
+
+---
+
+### 🧠 Text Classification Model
+- Classified fictional vs non-fictional text  
+- Achieved **98% accuracy** using NLP techniques  
+
+---
+
+### 📰 News Sentiment Analysis
+- News scraping + sentiment analysis app  
+- Built with Flask, PostgreSQL, NLTK  
+
+---
+
+## 🏆 Achievements
+
+- 🥇 Winner — SU-Coders Hackathon 2023  
+- 🥉 Third Place — FourFoldCodeQuest  
+- 🎓 100% Scholarship — Sitare Foundation  
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight)
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: YOUR_LINKEDIN_URL  
+- GitHub: YOUR_GITHUB_USERNAME  
+- Email: YOUR_EMAIL  
+
+---
+
+## ⚡ Fun Fact
+
+I love building scalable applications that combine **AI + Web Development** 🚀
