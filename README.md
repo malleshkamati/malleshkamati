@@ -19,7 +19,7 @@
 ## ⚙️ Tech Stack
 
 **Languages:**  
-Python | JavaScript | Java | PHP  
+Python | JavaScript | Java 
 
 **Frontend:**  
 React.js | HTML | CSS | Tailwind CSS  
