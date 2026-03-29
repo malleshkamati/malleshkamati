@@ -116,7 +116,7 @@ Git | GitHub | Pandas | NumPy
 ## 📫 Connect With Me
 
 - LinkedIn: https://www.linkedin.com/in/mallesh-kamati-8bb76228b/
-- GitHub: YOUR_GITHUB_USERNAME  
+- GitHub: https://github.com/malleshkamati  
 - Email: malleshkamati0803@gmail.com  
 
 ---
