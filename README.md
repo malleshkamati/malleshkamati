@@ -117,7 +117,8 @@ Git | GitHub | Pandas | NumPy
 
 - LinkedIn: https://www.linkedin.com/in/mallesh-kamati-8bb76228b/
 - GitHub: https://github.com/malleshkamati  
-- Email: malleshkamati0803@gmail.com  
+- Email: malleshkamati0803@gmail.com
+- LeetCode: https://leetcode.com/u/mallesh_kamati/
 
 ---
 
